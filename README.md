@@ -39,7 +39,7 @@ The `cv2.calibrateCamera()` function is then used to compute the distortion from
 #### 1. Distortion-corrected image.
 
 Here is the distortion applied to a regular camera image :
-![alt text][image2]
+![alt text][image12]
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
