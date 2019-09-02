@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./output_images/calibration3.png "Finding Corners"
-[image12]: ./output_images/undist.png "Undistorted"
+[image12]: ./output_images/undistort.png "Undistorted"
 [image2]: ./output_images/channels.png "Selecting channels"
 [image3]: ./output_images/thresholds.png "Thresholding"
 [image4]: ./output_images/warped.png "Warp Example"
