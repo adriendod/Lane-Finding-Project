@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [image1]: ./output_images/calibration3.png "Finding Corners"
 [image12]: ./output_images/cundist.png "Undistorted"
 [image2]: ./output_images/channels.png "Selecting channels"
-[image3]: ./output_images/hresholds.png "Thresholding"
+[image3]: ./output_images/thresholds.png "Thresholding"
 [image4]: ./output_images/warped.png "Warp Example"
 [image5]: ./output_images/hist.png "Histogram"
 [image6]: ./output_images/boxes.png "Boundary Boxes"
